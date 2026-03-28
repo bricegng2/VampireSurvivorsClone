@@ -1,3 +1,3 @@
 # VampireSurvivorsClone
 
-very simple Vampire Survivors with basic movement and an enemy spawning system 
+very simple Vampire Survivors clone with basic movement and an enemy spawning system 
