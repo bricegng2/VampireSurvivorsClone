@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 353ddf08c34336f43808b013467798eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBoostPrefab: {fileID: 6058496364093975403, guid: 4f6e2d4794434d047a35310f9eaed9fc, type: 3}
+  - orbiterPrefab: {fileID: 5257478980426097088, guid: ced0ca7054caecb4dad0795b21ef5a80, type: 3}
+  - xpPrefab: {fileID: 303574967160264502, guid: 0761f2ec34fa43640a26bce7be84ba8a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
